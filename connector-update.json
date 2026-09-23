@@ -1,0 +1,16 @@
+{
+  "name": "Watson's Creative Store Connector",
+  "slug": "watsons-creative-woocommerce",
+  "version": "0.3.69",
+  "author": "Watson's Creative, Inc.",
+  "homepage": "https://adventuresofbuttholekitty.com/custom-stickers-and-banners/",
+  "requires": "6.0",
+  "tested": "6.8",
+  "requires_php": "8.0",
+  "download_url": "https://github.com/WatsonsCreativeInc/watsons-creative-connector/releases/download/v0.3.69/watsons-creative-woocommerce-0.3.69.zip",
+  "sha256": "",
+  "release_notes": "v0.3.69 subject-first RV-flag cutouts. Pairs with API v4.0.0-alpha5.2.82. The 0-100 control now applies only a narrow boundary refinement after the API selects the central subject; at 100% it trims a small fringe rather than erasing more of the photo. Pricing, cart, checkout, shipping, the Alaska business location, and the active ship-from origin are unchanged.",
+  "released_at": "2026-09-23",
+  "api_version": "4.0.0-alpha5.2.82",
+  "requires_api_min": "4.0.0-alpha5.2.82"
+}
